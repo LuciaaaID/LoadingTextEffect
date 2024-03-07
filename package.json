@@ -1,0 +1,26 @@
+{
+  "name": "luciaaaidloadingtexteffect",
+  "version": "1.0.0",
+  "description": "This script adds a 'Loading...' text to the page and periodically updates it to simulate a loading process. Once the loading process is completed, the text is removed, and the actual content is displayed.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuciaaaID/LoadingTextEffect.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "LuciaaaID",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
